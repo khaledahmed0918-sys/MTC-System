@@ -1,0 +1,8 @@
+{
+  "name": "MT Bot",
+  "color": "#5865F2",
+  "status": {
+    "type": "Streaming",
+    "text": "MT Community"
+  }
+}
